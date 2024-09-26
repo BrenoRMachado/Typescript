@@ -1,0 +1,16 @@
+# O que é?
+
+    Linguagem que traz um superconjunto do Js. Ele possui todos os elementos do js e adiciona 
+    seus próprios construtores e tipos.
+
+    Desenvolvido para aplicações mais complexas.
+
+# Características 
+
+    Realiza uma analise estática de tipos. Os tipos de variáveis são conferidos antes da 
+    execução.
+
+    Não altera o comportamento em tempo de execução.
+
+    Um codigo em TS é compilado em JS para ser executado.
+

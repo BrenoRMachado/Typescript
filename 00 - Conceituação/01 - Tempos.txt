@@ -1,0 +1,15 @@
+
+    - Um programador desenvolve um código para ser executado
+
+# Tempo de desenvolvimento 
+
+    - enquanto o programador edita o código;
+    - enquanto ele executar ferramentas de analise de código ou 
+    auxílio de desenvolvimento;
+    - Nesse tempo usamos o TS.
+
+# Tempo de execução 
+
+    - quando o usuário executar o código no navegador ou servidor;
+    - durante uma depuração 
+    - Nesse tempo usamos o JS.
